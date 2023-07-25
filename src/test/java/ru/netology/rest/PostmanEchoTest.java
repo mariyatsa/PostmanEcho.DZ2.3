@@ -8,7 +8,7 @@ import static org.hamcrest.Matchers.equalTo;
 
 public class PostmanEchoTest {
     @Test
-    void test1() {
+    void test1() { //Вводим текст, должны получить такой же
         // Given - When - Then
 // Предусловия
         given()
